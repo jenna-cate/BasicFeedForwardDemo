@@ -1,8 +1,6 @@
-import pandas as pd
 import tensorflow as tf
 import numpy as np
 import pickle
-import matplotlib.pyplot as plt
 
 
 #Loading in picled data from Leete
